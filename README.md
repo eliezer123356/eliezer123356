@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Blueish](path/to/your.gif)
+![Blueish](black-rock-shooter-mato-mato.gif)
 <!--
 **eliezer123356/eliezer123356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
