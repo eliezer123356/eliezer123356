@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Blueish](path/to/your.gif)
 <!--
 **eliezer123356/eliezer123356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
